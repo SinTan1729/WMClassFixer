@@ -1,4 +1,8 @@
+import shutil
+
 #firefox-trunk
+
+shutil.copyfile("usr/share/applications/firefox-trunk.desktop","usr/share/applications/firefox-trunk.desktop.bk")
 
 f=open("/usr/share/applications/firefox-trunk.desktop","r")
 contents=f.readlines()
