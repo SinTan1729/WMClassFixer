@@ -15,6 +15,7 @@ git clone https://github.com/SinTan1729/WMClassFixer
 cd WMClassFixer
 sudo python WMCfix.py
 ```
+For other distros, simply clone the git and run the script as superuser.
 
 # How to make a request/bug report
 
