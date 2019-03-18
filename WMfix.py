@@ -1,3 +1,5 @@
+#firefox-trunk
+
 f=open("/usr/share/applications/firefox-trunk.desktop","r")
 contents=f.readlines()
 f.close()
