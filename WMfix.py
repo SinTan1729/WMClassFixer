@@ -13,3 +13,5 @@ contents.insert(contents.index("[Desktop Action new-window]\n")-1,"StartupWMClas
 f=open("/usr/share/applications/firefox-trunk.desktop","w")
 f.writelines(contents)
 f.close()
+
+print("fixed firefox-trunk")
