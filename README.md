@@ -22,5 +22,7 @@ For other distros, simply clone the git and run the script as superuser.
 For request, please provide the package name and PPA. In case of bugs, please provide the package name, PPA and the desktop file (both before (the .bk file) and after editing).
 
 ### _You might buy me a cup of coffee:_
+
 **UPI (preferred) : sayantan.santra@paytm**
+
 **PayPal : sayantan.santra689@gmail.com** 
