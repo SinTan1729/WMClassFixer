@@ -3,7 +3,9 @@
 
 Some applications (e.g. firefox-trunk) don't have proper desktop files. Hence, when they're launched from dash, instead of being grouped, each is opened separately in the dash. This simple script fixes that.
 Currently, the supported apps are:
+
     1. firefox-trunk
+
 More apps might be added later as I encounter them or someone makes a request.
 
 # Installation and use
