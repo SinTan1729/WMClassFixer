@@ -25,6 +25,6 @@ For request, please provide the package name and PPA. In case of bugs, please pr
 
 ### _You might buy me a cup of coffee:_
 
-**UPI (preferred) : sayantan.santra@paytm**
+**UPI (preferred) : sintan@ybl**
 
 **PayPal : sayantan.santra689@gmail.com** 
